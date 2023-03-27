@@ -1,5 +1,5 @@
 ---
-title: Easyapache 4 Containers
+title: EasyApache 4 Containers
 ---
 
 ## Overview
