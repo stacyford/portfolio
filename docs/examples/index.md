@@ -2,7 +2,7 @@
 title: Portfolio
 ---
 
-The following are some examples of documentation that I have written. 
+I try to write documentation that is clear but complete. Even complex topics can be presented in a way that is understandable. 
 
 The documentation team at my current job works collaboratively. Each writer is responsible for documenting the work of their assigned development team or teams.
 
