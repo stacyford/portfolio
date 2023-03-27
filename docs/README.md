@@ -1,6 +1,7 @@
-This website serves as my technical writing portfolio. 
+I'm a technical writer with more than 8 years of experience as a writer and many more years in tech as a whole. My past lives include time as a help desk analyst, a a PC technicion, and a security and compliancy admin, before I made the jump into technical writing. 
 
-Here, you'll find a selection of the documentation that I've written that I am particularly proud of.
 
-[About me](about.md)
-[Resume](resume.md)
+* Take a look at my [Resume](resume.md).
+* View some examples of documentation I've written.
+* Learn a bit more [about me](about.md)
+
