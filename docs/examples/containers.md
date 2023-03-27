@@ -40,7 +40,7 @@ apt install -y ea-podman
 
 **Note:** Before you can use an EA4 container-based package for your containers, your system administrator **must** install the EasyApache 4 package on the command line.
 
-Log into the cPanel user account via SSH.  You can do this by either logging into the account via SSH from the command line, or using SSH in either WHM's _Terminal_]whm/server-configuration/terminal-in-whm/) interface (_WHM >> Home >> Server Configuration >> Terminal_) or cPanel's [_Terminal_](/cpanel/advanced/terminal-in-cpanel/) interface (_cPanel >> Home >> Advanced >> Terminal_).
+Log into the cPanel user account via SSH.  You can do this by either logging into the account via SSH from the command line, or using SSH in either WHM's _Terminal_ interface or cPanel's _Terminal_ interface.
 
 To set up your application, run the following command, where `package` represents the name of a EA4 container-based package:
 
@@ -50,11 +50,9 @@ To set up your application, run the following command, where `package` represent
 
 When you set up a container, the system also creates the `~/ea-podman.d/application-name` directory in the user's `home` directory. These directories contain information, files, and other data for the container.
 
-For more information, read our [`/usr/local/cpanel/scripts/ea-podman` script](/ea4/containers/the-ea-podman-script/) documentation.
-
 ### Use a non-cPanel-provided image
 
-Log into the cPanel user account via SSH. You can do this by either logging into the account via SSH from the command line, or using SSH in either WHM's [_Terminal_](/whm/server-configuration/terminal-in-whm/) interface (_WHM >> Home >> Server Configuration >> Terminal_) or cPanel's [_Terminal_](/cpanel/advanced/terminal-in-cpanel/) interface (_cPanel >> Home >> Advanced >> Terminal_).
+Log into the cPanel user account via SSH. You can do this by either logging into the account via SSH from the command line, or using SSH in either WHM's _Terminal_ interface or cPanel's _Terminal_ interface.
 
 To set up your application, run the following command, where `application` represents the name of the application and `image` represents an image provided by a site such as <a href="https://hub.docker.com/" target="_blank">Dockerhub</a>:
 
