@@ -2,6 +2,6 @@ I'm a technical writer with more than 8 years of experience as a writer and many
 
 
 * Take a look at my [Resume](resume.md).
-* View some examples of documentation I've written.
+* View some examples of [documentation I've written](examples/index.md).
 * Learn a bit more [about me](about.md)
 
