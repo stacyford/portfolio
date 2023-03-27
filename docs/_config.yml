@@ -4,6 +4,6 @@ description: This site contains examples of my work as a technical writer.
 minima:
   social_links:
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/stacy-katz-ford-09908a5/" }
-    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
+    - { platform: github,  user_url: "https://github.com/stacyford/" }
     
 
