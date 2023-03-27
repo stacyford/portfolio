@@ -2,7 +2,7 @@
 title: Portfolio
 ---
 
-I try to write documentation that is clear but complete. Even complex topics can be presented in a way that is understandable. 
+I try to write documentation that is clear but complete. Even complex topics can be presented in a way that is understandable. I wrote all of the examples on this page. 
 
 The documentation team at my current job works collaboratively. Each writer is responsible for documenting the work of their assigned development team or teams.
 
