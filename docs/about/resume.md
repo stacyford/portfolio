@@ -1,3 +1,6 @@
+---
+title: Resume
+---
 
 ## Stacy C Ford
 LinkedIn | 
