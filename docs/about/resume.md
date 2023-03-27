@@ -3,13 +3,12 @@ title: Resume
 ---
 
 ## Stacy C Ford
-LinkedIn | 
+Houston, TX<br>
+[Email](mailto:sckatz@gmail.com) | [LinkedIn](https://www.linkedin.com/in/stacy-katz-ford-09908a5/)
 
 ### Summary
 
-* 8 years experience as a Technical Writer.
-* Experience using Git, GitLab, Github, Linux, Confluence, and Markdown.
-* Experience working in an Agile environment on cross-functional teams.
+Technical writer with over 8 years of experience in software documentation working on a cross-functional team. Excellent writing, editing, communication, and research skills. I am skilled with Git, Markdown, static site generators, HTML, and API documentation. 
 
 
 ### Experience
@@ -20,31 +19,29 @@ LinkedIn |
 
 * Responsible for all documentation on assigned Agile team. 
 * Write, revise, and update documentation aimed at both novice and experienced users. 
-* Review work of other writers for clarity and adherence to style guide.
-* Write and review UI strings for inclusion in product. 
-* Maintain release notes and change logs for EasyApache 4 release team. 
+* Review work of other writers for clarity and adherence to company style guide.
+* Write and review UI strings. 
+* Maintain release notes and change logs for EasyApache 4 Release Team. 
 * Confirm APIs and scripts function as documented.
 * Review OpenAPI spec files written by developers for adherence to style guide. 
 * Use Git to publish documentation and manage repositories. 
 * Convert existing documentation into Markdown  and OpenAPI formats.
-* Technical knowledge: Git, Linux, GitLab, GitHub, HTML, beginner Perl.
 
 #### Genuent, Houston, TX
 **ERP IT Triage Support**, 9/2013 to 6/2014
 
 * Contracted to National Oilwell Varco.
 * Provided support for users in Movex ERP system.
-* Wrote user guides for performing basic tasks..
+* Wrote user guides for performing basic tasks.
 * Assisted with upgrade and moving users to new Movex software version.
 * Created, updated, and terminated users.
-.
+
 #### Shriners Hospitals for Children, Galveston, TX
 **Customer Support Specialist**, 1/2011 to 9/2013
 * Primary point of contact for computer assistance for users at Houston and Galveston hospitals.
 * Refined process for user access requests.
 * Performed regular audits to ensure user list was up-to-date.
 * Maintained regional Sharepoint site, set up and updated sites based on hospital needs, granted access to meet requests from users, and trained users on use.
-
 
 #### Insight Global, Houston, TX
 **GI-D Focal Point**, 3/2009 to 10/2009
