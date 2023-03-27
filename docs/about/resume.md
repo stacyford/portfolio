@@ -1,4 +1,6 @@
-## Stacy C. Ford
+
+## Stacy C Ford
+LinkedIn | 
 
 ### Summary
 
