@@ -1,3 +1,5 @@
 theme: minima
 title: Stacy Ford's Technical Writing Portfolio
 description: This site contains examples of my work as a technical writer. 
+header_pages:
+  - about.md
