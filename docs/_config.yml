@@ -8,5 +8,6 @@ minima:
 header_pages:
   - about.md
   - about/resume.md
+  - examples/index.md
     
 
