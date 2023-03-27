@@ -1,6 +1,4 @@
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: minima
 title: Stacy Ford's Technical Writing Portfolio
 description: This site contains examples of my work as a technical writer. 
 
