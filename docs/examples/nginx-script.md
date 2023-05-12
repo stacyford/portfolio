@@ -8,7 +8,7 @@ The `/usr/local/cpanel/scripts/ea-nginx` script manages your NGINX configuration
 
 This script creates the user’s configuration file in the following location:
 
-**Note**: In the following example, username represents the username.
+**Note**: In the following example, `username` represents the username.
 
 ```
 /etc/nginx/conf.d/users/username.conf 
@@ -28,7 +28,7 @@ This script's available options change, depending on how you use the script. For
 
 This script accepts the following options, depending on the action required:
 
-**Note**: In the following tables, user represents the cPanel username.
+**Note**: In the following tables, `user` represents the cPanel username.
 
 #### Configure NGINX users
 
