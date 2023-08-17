@@ -45,7 +45,7 @@ You can use the following options with this script:
 | `user` | Configure a specific cPanel account username for NGINX. <br><strong>Note:</strong><ul><li>You **must** pass either the `user` or `--all` option, but not both.</li><li>This option also clears the user's cache.</li></ul> | `config user` |
 | `--all` | Configure all cPanel accounts for NGINX. <br><strong>Note:</strong><ul><li>You **must** pass either the `user` or `--all` option, but not both.</li><li>This option builds the user configurations in parallel.</li><li>To configure the `--all` option to **always** build the user configuration serially, create the `/etc/nginx/ea-nginx/serial_config_mode` touch file.</li></ul> | `config --all` |
 | `--no-reload` | Do not immediately reload the user’s NGINX configuration.  <br><strong>Note:</strong><ul><li>You can **only** use this option with the `config` or `remove` options.</li><li>You **must** pass the [`reload`](#additional-options) option by itself when you're ready to load the changes into your NGINX configuration.</li></ul> | `config user --no-reload` |
-| `--serial` | Rebuild the user configurations serially rather than in parallel. <br>**Note**You can **only** use this option with the `--all` option.| `config --all --serial` |
+| `--serial` | Rebuild the user configurations serially rather than in parallel. <br>**Note**: You can **only** use this option with the `--all` option.| `config --all --serial` |
 | `--global` | Only rebuild global NGINX configurations. This option also executes any scripts in the `/etc/nginx/ea-nginx/config-scripts/global/` directory. | `config --global` |  
 
 #### Remove NGINX users
