@@ -14,12 +14,12 @@ We use <a href="https://podman.io/" target="_blank">podman</a> for our container
 
 ## Setting up containers
 
-To set up containers, you must first install the `ea-podman-repo` package. You **must** install this package first. Then, we recommend installing the `ea-podman` and `ea-tomcat100` packages. These packages set up the system for containers and install our `/usr/local/cpanel/scripts/ea-podman` script to manage them.
+To set up containers, you must first install the `ea-podman-repo` package. You **must** install this package first. Then, install the `ea-podman` package. This package sets up the system for containers and installs our `/usr/local/cpanel/scripts/ea-podman` script to manage them.
 
 **Note:** To use an application in the containers on your server, you **must** install either a cPanel-provided container-based package or an image from another source, such as <a href="https://hub.docker.com/" target="_blank">Dockerhub</a>. You can only perform this action **after** you set up the containers on your server.
 
-### AlmaLinux and Rocky Linux 8
-To start using containers on AlmaLinux or Rocky Linux 8, run the following commands on the command line as the `root` user:
+### AlmaLinux and Rocky Linux
+To start using containers on AlmaLinux or Rocky Linux, run the following commands on the command line as the `root` user:
 
 ```bash
 dnf install -y ea-podman-repo
@@ -42,7 +42,7 @@ apt install -y ea-podman
 
 Log into the cPanel user account via SSH.  You can do this by either logging into the account via SSH from the command line, or using SSH in either WHM's _Terminal_ interface or cPanel's _Terminal_ interface.
 
-To set up your application, run the following command, where `package` represents the name of a EA4 container-based package:
+To set up your application, run the following command, where `package` represents the name of an EA4 container-based package:
 
 ```
 /scripts/ea-podman install package
@@ -79,6 +79,7 @@ We provide the following packages for containers. These packages are already con
 * Memcached 1.6
 * Redis® 6.2
 * Apache Tomcat® 10.0
+* Apache Tomcat 10.1
 
 You can also run the following command to view the available EA4 container-based packages:
 
