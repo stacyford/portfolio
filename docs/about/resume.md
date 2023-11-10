@@ -8,11 +8,10 @@ Houston, TX<br>
 
 ### Summary
 
-Technical writer with over 9 years of experience in software documentation working on a cross-functional team. 
+Versatile technical writer with over 9 years of experience in software documentation contributing to cross-functional Agile teams.
 
 ### Skills
 Writing, editing, communication, research, Git, Markdown, Confluence, Linux, Windows, MacOS, Apache, JSON, YAML, basic Perl, HTML, and OpenAPI. 
-
 
 ### Experience
 
