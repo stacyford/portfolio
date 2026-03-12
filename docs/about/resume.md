@@ -2,84 +2,62 @@
 title: Resume
 ---
 
-## Stacy C Ford
-Houston, TX<br>
-[Email](mailto:sckatz@gmail.com) | [LinkedIn](https://www.linkedin.com/in/stacy-katz-ford-09908a5/)
+# Stacy C. Ford
 
-### Summary
+Spring, TX
+(281) 250-9241
+[`sckatz@gmail.com`](mailto:sckatz@gmail.com)  
+[LinkedIn Profile](https://www.linkedin.com/in/stacy-katz-ford/)
 
-Versatile technical writer with over 9 years of experience in software documentation contributing to cross-functional Agile teams.
+## Summary
 
-### Skills
-Writing, editing, communication, research, Git, Markdown, Confluence, Linux, Windows, MacOS, Apache, JSON, YAML, basic Perl, HTML, and OpenAPI. 
+Senior technical writer with 11 years of experience leading software documentation in Agile, docs-as-code environments. Adept at transforming complex technologies into clear, actionable content that improves adoption and reduces support overhead. Certified in UX for Technical Writers, with a focus on creating accessible, user-friendly content.
 
-### Experience
+## Skills
 
-#### cPanel, L.L.C., Houston, TX
-**Technical Writer II** 9/2021 to present<br>
-**Technical Writer** 6/2014 to 9/2021
+Git, Markdown, reStructuredText, Hugo, Confluence, Jira, SDK documentation, OpenAPI, JSON, YAML, HTML, basic Perl, Apache, Linux, Windows, MacOS
 
-* Responsible for all documentation on assigned Agile team.
-* Collaborate with SMEs to determine a project’s documentation needs. 
-* Write, revise, and update documentation aimed at both novice and experienced users. 
-* Review work of other writers for clarity and adherence to company style guide.
-* Act as Documentation Release Manager on a rotating schedule. 
-* Write and review UI strings. 
-* Maintain release notes and change logs for EasyApache 4 Release Team. 
-* Confirm APIs and scripts function as documented.
-* Review OpenAPI spec files written by developers and note where changes are needed. 
-* Use Git to publish documentation and manage repositories. 
-* Convert existing documentation from Confluence into Markdown and OpenAPI formats.
+## Certifications
 
-#### Genuent, Houston, TX
-**ERP IT Triage Support**, 9/2013 to 6/2014
-* Contracted to National Oilwell Varco.
-* Provided support for users in Movex ERP system.
-* Wrote user guides for performing a variety of tasks.
-* Assisted with upgrade and moving users to new Movex software version.
-* Created, updated, and terminated users.
+**Certified in UX for Technical Writers** (UX Content Collective)  
+Expertise in accessible, user-friendly content.
 
-#### Shriners Hospitals for Children, Galveston, TX
-**Customer Support Specialist**, 1/2011 to 9/2013
-* Primary point of contact for computer assistance for users in Houston and Galveston hospitals.
-* Refined and improved process for user access requests.
-* Performed regular audits to ensure hospital's Active Directory was up-to-date.
-* Maintained regional Sharepoint site, set up and updated sites based on hospital needs, granted access to users, and trained users on use.
+## Experience
 
-#### Insight Global, Houston, TX
-**GI-D Focal Point**, 3/2009 to 10/2009
-* Contracted to EDS to service Shell account. 
-* Primary point of IT contact and IT liaison for users within the Corporate Affairs department at Shell. 
-* Escalated issues through appropriate channels and answered questions about using software. 
+### cPanel, L.L.C. — Houston, TX
+**Technical Writer II** | 9/2021 to 11/2025  
+**Technical Writer** | 6/2014 to 9/2021
 
-#### Grant Prideco, The Woodlands, TX, 6/2000 to 2/2008
-**Security and Compliancy Admin**, 2/06 to 2/08
-* Solely responsible for employee data security changes on the network.
-* Managed SOX compliancy data in the IT department, serving as main point of contact for external and internal audit.
-* Ensured user data access met SOX compliance needs. 
+#### Docs-as-code & content management
+- Authored and maintained 500+ technical documents in a Git-based, docs-as-code environment (Markdown, Hugo), improving user understanding and reducing documentation-related support escalations.
+- Converted documentation from Confluence to a docs-as-code approach using Markdown and Hugo as part of an effort that touched several hundred documents.
 
-**Help Desk Analyst II**, 8/04 to 2/06
-* Lead helpdesk analyst supporting over 2000 users worldwide. 
-* Updated and refined policies and procedures, and wrote instructional documentation. 
-* Responsible for all new user creations and changes.
+#### Containers & technical expertise
+- Partnered with SMEs and developers to document containerized workflows using Podman, while also supporting integration with DockerHub sources.
+- Department EasyApache subject matter expert. Led comprehensive audit of EasyApache 4 documentation space, resulting in over 30 documents receiving updates and clarification.
+- Wrote and reviewed UI strings and OpenAPI specification files, ensuring accuracy and adherence to style guide.
 
-**PC Technician**, 8/02 to 8/04
-* Provided end-user support with hardware and software issues for users across four sites. 
-* Performed continued help-desk duties, and trained rotating PC Techs on the help desk. 
+#### Process improvement & leadership
+- Spearheaded project with another writer to create reusable AI tools for department, with a goal of a 15% increase in productivity.
+- Served as Documentation Release Manager on a rotating schedule, ensuring all needed documentation was updated.
+- Performed peer reviews for other writers and provided feedback that improved documentation consistency, accessibility, and UX.
+- Collaborated with subject matter experts, stakeholders, and technical support to define and deliver documentation needs through development and beyond.
 
-**Help Desk Analyst**, 7/00 to 8/02
-* Provided support for users utilizing Windows and AS/400 systems.
-* Changed passwords for users. 
-* Managed ticket opening and closing for PC Technicians.
+### Genuent — Houston, TX
+**ERP IT Triage Support** | 9/2013 to 6/2014
 
+- Contracted to National Oilwell Varco.
+- Provided Movex ERP system support, including user creation, changes, and termination.
+- Wrote user guides for the Movex system and assisted with upgrade and moving users to new Movex software version.
 
-### Education
-Rhodes College, Memphis, TN<br>
-B.A., Political Science
+### Shriners Hospitals for Children — Galveston, TX
+**Customer Support Specialist** | 1/2011 to 9/2013
 
+- Delivered IT support for hospital staff in Houston and Galveston.
+- Improved account provisioning processes and maintained regional SharePoint site.
+- Performed regular audits to ensure hospital's Active Directory was up-to-date.
 
+## Education
 
-
-
-
-
+### Rhodes College — Memphis, TN
+**B.A., Political Science**
