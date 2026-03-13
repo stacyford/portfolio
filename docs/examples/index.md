@@ -2,14 +2,12 @@
 title: Portfolio
 ---
 
-I try to write documentation that is clear but complete. Even complex topics can be presented in a way that is understandable. I wrote all of the examples on this page. 
+I write documentation that is clear and complete. Even the most complex topics can be presented in easy-to-understand ways. My work includes UI documentation, reference material, conceptual explanations, and content that supports complex software workflows.
 
-The documentation team at my current job works collaboratively. Each writer is responsible for documenting the work of their assigned development team or teams.
+These samples show how I might approach different types of technical writing:
 
-Documentation goes through a two-stage review process. First, the document is reviewed for technical accuracy by either the development team or support, depending on the origin of the request. Then, the document is taken through a peer review, where each document is reviewed for clarity and adherence to the style guide.
+* [The ea-nginx script](./nginx-script.html) — This documents a complex script that manages NGINX on cPanel servers. 
+* [Package Manager Basics](./package-managers.html) — An introductory guide to yum and apt package managers. 
+* [EasyApache 4 Containers](./ea4-containers.html) — A setup and configuration guide for Podman containers.
 
-* [The ea-nginx script](nginx-script.md) — This document explains how to use a complex script that manages NGINX on a server that runs cPanel.
-* [Package Manager Basics](package-manager-basics.md) — This document provides an introduction to the yum and apt package managers. 
-* [EasyApache 4 Containers](containers.md) — This document explains how to set up and configure Podman containers. 
-
-This [documentation](https://docs.cpanel.net) was originally written for cPanel, L.L.C., and is owned by them. 
+This documentation was originally written for cPanel, L.L.C., and is owned by them.
