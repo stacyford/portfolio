@@ -4,12 +4,12 @@ title: About Me
 
 Hello!
 
-I'm Stacy, and I've officially been a technical writer since 2014, although my interest in writing far precedes that. 
+I'm Stacy, and I've worked as a technical writer since 2014, with a background in technology that includes help desk support, PC support, and security and compliancy administration.
 
-I've been working in tech for the vast majority of my career. 
+That experience shapes how I approach documentation. Support work taught me how people actually use products, where they get stuck, what assumptions they bring with them, and what kinds of questions documentation should answer before they ever need to ask. When we improve documentation, we make life easier for everyone: our customers, support, and ourselves.
 
-My first job in technology was, unsurprisingly, as a helpdesk analyst. Working in support is a great way to learn about your product and processes as a whole, and as a writer, I find that it helps me understand where my readers are coming from. I know what sort of questions they might ask and what sort of mistakes they might make. I also spent time as a PC tech and as a security and compliancy admin, which was useful when I transitioned into technical writing. 
+I enjoy writing about software and other technical topics because there is always something new to learn. I especially like editing and improving documentation for clarity: restructuring content, refining explanations, and making complex processes easier to follow.
 
-I really enjoy working in the software industry. I like the people and the constant new technologies and opportunities to learn. I am not bored when writing about software. There's just always something new to learn or figure out. 
+My work has focused on software documentation in docs-as-code environments, where I've collaborated with developers, support teams, SMEs, and other writers to create content that is accurate, useful, and easier to maintain over time.
 
-Outside of work, I've lived in Texas my whole life, with a couple of brief adventures away to Tennessee and Washington, DC, for college. I like to read, bake, play around online, play with my cats, and spend time with my family. 
+Outside of work, I've lived in Texas most of my life, with a couple of brief adventures away for college. I enjoy reading, baking, spending time online, playing with my cats, and being with my family.
