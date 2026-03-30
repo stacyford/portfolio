@@ -1,4 +1,6 @@
-# Debug Operations in Kubernetes
+---
+title: Debug Operations in Kubernetes
+---
 
 This document provides an overview of the most common ways to troubleshoot your pods with the `kubectl` command. 
 
