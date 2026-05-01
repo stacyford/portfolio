@@ -6,7 +6,7 @@ title: NGINX Manager
 
 ## Overview
 
-WHM's *NGINX® Manager* allows you to install, uninstall, and manage your NGINX with reverse proxy and caching server. You can also manage the caching on your server in this interface.
+WHM's _NGINX® Manager_ allows you to install, uninstall, and manage your NGINX with reverse proxy and caching server. You can also manage the caching on your server in this interface.
 
 ## Requirements
 
@@ -33,14 +33,14 @@ cPanel & WHM's implementation of NGINX has the following limitations:
 * If you use NGINX and ModSecurity® 2, your ModSecurity rules **only** apply when NGINX proxies the request to Apache.
 * NGINX redirects any non-SSL IPv6 requests to use SSL. This ensures that any IPv6-only service subdomains will work correctly. If your client will not accept the hostname's security certificate, we recommend that you use the subdomain's fully-qualified domain name instead.
 * For security reasons, NGINX will **not** serve any file with a name starting with `.ht`.
-* cPanel's *Optimize Website* interface (*cPanel » Home » Software » Optimize Website*) will **not** affect NGINX.
+* cPanel's _Optimize Website_ interface (_cPanel » Home » Software » Optimize Website_) will **not** affect NGINX.
 * If you create a custom NGINX configuration that uses the NGINX `alias` directive, make **certain** that your path's location ends with a trailing slash (`/`). If your path does **not** end with a `/`, then your path is vulnerable to a path traversal exploit.
 
 ## Landing Page
 
 **Important:** This section of the interface **only** appears if NGINX is **not** installed on your server. If NGINX is already installed, the interface displays the [System Settings](#system-settings) tab.
 
-To install NGINX on your server, click *Install*. A new interface will appear.
+To install NGINX on your server, click _Install_. A new interface will appear.
 
 You can also use the EasyApache 4 interface, or run the following command on the command line as the `root` user:
 
@@ -50,9 +50,9 @@ You can also use the EasyApache 4 interface, or run the following command on the
 | AlmaLinux OS and Rocky Linux™ | `dnf install ea-nginx` |
 | Ubuntu® | `apt install --purge ea-nginx` |
 
-**Note:** We also provide the *cPanel Default NGINX®* profile in WHM's *EasyApache 4* interface (*WHM » Home » Software » EasyApache 4*). This profile provides the *cPanel Default* profile plus the necessary packages to run NGINX.
+**Note:** We also provide the _cPanel Default NGINX®_ profile in WHM's _EasyApache 4_ interface (_WHM » Home » Software » EasyApache 4_). This profile provides the _cPanel Default_ profile plus the necessary packages to run NGINX.
 
-If the `ea-nginx-standalone` package exists on your server, the system will prompt you to install NGINX with reverse proxy caching. Click *Switch to NGINX Reverse Proxy Mode* to install the package.
+If the `ea-nginx-standalone` package exists on your server, the system will prompt you to install NGINX with reverse proxy caching. Click _Switch to NGINX Reverse Proxy Mode_ to install the package.
 
 The system will install NGINX on your server and display a progress log. The installation process also configures all accounts on the server to use NGINX and to use caching by default.
 
@@ -62,31 +62,31 @@ When the installation completes, click _Go to NGINX Manager_ to return to the in
 
 Use this section of the interface to manage your NGINX server. You can perform the following actions:
 
-* *Use Caching by Default* — When you set this toggle to *Enabled*, any new accounts that you create on the server will use caching by default. This setting also applies to any accounts which do not have their caching status explicitly set.
+* _Use Caching by Default_ — When you set this toggle to _Enabled_, any new accounts that you create on the server will use caching by default. This setting also applies to any accounts which do not have their caching status explicitly set.
 
   **Note:** When you enable or disable the caching status for a user account, the system default setting will **no longer** apply.
 
-* *Clear Cache for All Users* — Clear the cache for all users on the system.
-* *Restart NGINX* — Restart NGINX on your server.
-* *Rebuild Configuration* — Rebuild the NGINX service's configuration.
-* *Reset Users to System Default* — Reset all users on the system to the system's default NGINX configuration.
-* *Uninstall NGINX Reverse Proxy* — Uninstall NGINX from your server.
+* _Clear Cache for All Users_ — Clear the cache for all users on the system.
+* _Restart NGINX_ — Restart NGINX on your server.
+* _Rebuild Configuration_ — Rebuild the NGINX service's configuration.
+* _Reset Users to System Default_ — Reset all users on the system to the system's default NGINX configuration.
+* _Uninstall NGINX Reverse Proxy_ — Uninstall NGINX from your server.
 
 ## User Settings
 
 Use this section of the interface to manage your users' NGINX settings. This section displays a table with the user's username and their NGINX caching status.
 
-* To search for a specific user, use the *Search for account or owner* text box.
-* To change a user's NGINX caching status, set the toggle next to the user's username to either *Enabled* or *Disabled*.
-* To change the NGINX caching status for multiple users, select the checkbox next to the usernames you wish to change or select the checkbox above the table to select all visible users. Then, click *Enable NGINX Cache* or *Disable NGINX Cache*.
-* To clear a user's cache, click *Clear Cache* next to the user's username.
-* To clear the cache for multiple users, select the checkbox next to the usernames you wish to clear or select the checkbox above the table to select all visible users. Then, click *Clear NGINX Cache*.
+* To search for a specific user, use the _Search for account or owner_ text box.
+* To change a user's NGINX caching status, set the toggle next to the user's username to either _Enabled_ or _Disabled_.
+* To change the NGINX caching status for multiple users, select the checkbox next to the usernames you wish to change or select the checkbox above the table to select all visible users. Then, click _Enable NGINX Cache_ or _Disable NGINX Cache_.
+* To clear a user's cache, click _Clear Cache_ next to the user's username.
+* To clear the cache for multiple users, select the checkbox next to the usernames you wish to clear or select the checkbox above the table to select all visible users. Then, click _Clear NGINX Cache_.
 
-**Note:** If you want to allow your users to manage their own NGINX caching status, enable the *EA4 - Allow enabling/disabling NGINX caching (requires cPanel & WHM version 100 or later)* option in WHM's *Feature Manager* interface (*WHM » Home » Packages » Feature Manager*). This option enables the *NGINX Caching* toggle in the cPanel interface.
+**Note:** If you want to allow your users to manage their own NGINX caching status, enable the _EA4 - Allow enabling/disabling NGINX caching (requires cPanel & WHM version 100 or later)_ option in WHM's _Feature Manager_ interface (_WHM » Home » Packages » Feature Manager_). This option enables the _NGINX Caching_ toggle in the cPanel interface.
 
 ## Uninstall
 
-To uninstall NGINX, use the *Uninstall NGINX Reverse Proxy* option in the [System Settings](#system-settings) tab.
+To uninstall NGINX, use the _Uninstall NGINX Reverse Proxy_ option in the [System Settings](#system-settings) tab.
 
 You can also run the following command on the command line as the `root` user:
 
