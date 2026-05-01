@@ -4,8 +4,6 @@ title: Release Notes and Change Logs
 
 > **Ownership note:** This content was originally written for cPanel, L.L.C., and is owned by them. Technical writers owned all EasyApache 4 release note and change log content. Contributions to cPanel & WHM major version release notes were collaborative; sections I wrote are included here. Change log entries were formatted from developer-provided information using a prompt-based templating system I developed to ensure consistency and reduce formatting errors.
 
----
-
 ## Release Notes
 
 Release notes summarize product changes for end users and link to full documentation for details. I wrote all EasyApache 4 release notes through December 2025. Entries for major cPanel & WHM versions were a team effort; the samples below are sections I wrote.
@@ -20,8 +18,6 @@ This release includes updates to NodeJS 22, NGINX NJS, Tomcat 10.1, and Passenge
 
 For a full list of changes, read the EasyApache 4 change log.
 
----
-
 ### cPanel & WHM Version 132 — September 30, 2025 (excerpt)
 
 #### Upgraded temporary domains for cPanel accounts
@@ -30,16 +26,11 @@ In cPanel & WHM version 132, we expanded the functionality of temporary domains 
 
 However, you **cannot** convert your account's main domain from a temporary domain to a registered domain. To make changes to your primary domain, contact your hosting provider.
 
----
-
-## Change Log
+## Change Logs
 
 Change log entries document individual package updates and security fixes at a technical level. I formatted these entries from developer-provided information for each EasyApache 4 release through December 2025.
 
 ### EasyApache 4 Change Log — Sample Entries
-
----
-
 #### 25.32
 _2025 October 16_
 
@@ -54,8 +45,6 @@ _2025 October 16_
 
 **ea-nghttp2**
 * EA-13175: Update `ea-nghttp2` from 1.67.0 to 1.67.1.
-
----
 
 #### 25.31
 _2025 October 08_
