@@ -2,7 +2,7 @@
 title: NGINX Manager
 ---
 
-> **Ownership note:** This document was originally written for cPanel, L.L.C., and is owned by them. I was a member of the implementation team for this feature and wrote this documentation as part of that project.
+> **Ownership note:** This document was originally written for cPanel, L.L.C., and is owned by them. I was a member of the team that developed this feature and wrote this documentation as part of that project.
 
 ---
 
@@ -19,6 +19,7 @@ To install NGINX on your server, you **must** meet the following requirements:
 
 **Note:**
 * Previous versions of the `ea-nginx` package installed Apache's Passenger package by default. If you want to use Passenger, you must install the `ea-apache24-mod-passenger` package. If Passenger already exists on your server, it will remain on your server.
+* For more information, read our Using Passenger Applications documentation.
 
 ### Compatibility
 
@@ -58,8 +59,6 @@ If the `ea-nginx-standalone` package exists on your server, the system will prom
 The system will install NGINX on your server and display a progress log. The installation process also configures all accounts on the server to use NGINX and to use caching by default.
 
 When the installation completes, click _Go to NGINX Manager_ to return to the interface and open the _System Settings_ tab.
-
----
 
 ## System Settings
 
