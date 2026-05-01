@@ -4,8 +4,6 @@ title: NGINX Manager
 
 > **Ownership note:** This document was originally written for cPanel, L.L.C., and is owned by them. I was a member of the team that developed this feature and wrote this documentation as part of that project.
 
----
-
 ## Overview
 
 WHM's *NGINX® Manager* allows you to install, uninstall, and manage your NGINX with reverse proxy and caching server. You can also manage the caching on your server in this interface.
@@ -74,8 +72,6 @@ Use this section of the interface to manage your NGINX server. You can perform t
 * *Reset Users to System Default* — Reset all users on the system to the system's default NGINX configuration.
 * *Uninstall NGINX Reverse Proxy* — Uninstall NGINX from your server.
 
----
-
 ## User Settings
 
 Use this section of the interface to manage your users' NGINX settings. This section displays a table with the user's username and their NGINX caching status.
@@ -87,8 +83,6 @@ Use this section of the interface to manage your users' NGINX settings. This sec
 * To clear the cache for multiple users, select the checkbox next to the usernames you wish to clear or select the checkbox above the table to select all visible users. Then, click *Clear NGINX Cache*.
 
 **Note:** If you want to allow your users to manage their own NGINX caching status, enable the *EA4 - Allow enabling/disabling NGINX caching (requires cPanel & WHM version 100 or later)* option in WHM's *Feature Manager* interface (*WHM » Home » Packages » Feature Manager*). This option enables the *NGINX Caching* toggle in the cPanel interface.
-
----
 
 ## Uninstall
 
